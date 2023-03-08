@@ -1,0 +1,7 @@
+print("Neilven Lavado Mascarinas")
+print("Libtangin Gasan Marinduque")
+print("November 14, 2002")
+print("Marinduque State College")
+print("Bachelor of Science in Information Technology")
+print("2nd Year")
+print("Section A")
